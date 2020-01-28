@@ -1,6 +1,7 @@
 site_name: Citrix Virtual Channel SDK
 site_description: Reference for the Citrix Virtual Channel SDK for Android
 site_title: Developer Docs
+site_url: https://developer-docs.citrix.com
 
 # Copyright
 copyright: 'Copyright &copy; 1999-2019 Citrix Systems, Inc. All rights reserved. '
@@ -61,3 +62,4 @@ nav:
 - Programming Guide: programming-guide.md
 - Known Limitations: known-limitations.md
 - Programming Reference: programming-reference.md
+- Questions?: https://discussions.citrix.com/forum/1385-citrix-developer-exchange/
